@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About - PRAAS
 
-Let's discover **Docusaurus in less than 5 minutes**.
+PRAAS, or peer-review as a service, is a new service 
 
 ## Getting Started
 
